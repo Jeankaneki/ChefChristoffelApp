@@ -4,8 +4,10 @@ MAST502 Project
 Youtube video link:
 
 # Screenshots 
-![](Ss1)
-![](Ss2)
-![](Ss3)
-![](Ss4)
-![](Ss5)
+Desktop
+![](Ss1.png)
+![](Ss2.png)
+Mobile 
+![](Ss3.png)
+![](Ss4.png)
+![](Ss5.png)
