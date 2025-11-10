@@ -11,15 +11,15 @@ Youtube video link:
 # Screenshots 
 Desktop Web
 
-![](SS1.png)
+![](Ss1.png)
 
-![](SS2.png)
+![](Ss2.png)
 
 Mobile App
 
-![](SS3.png)
+![](Ss3.png)
 
-![](SS4.png)
+![](Ss4.png)
 
 ## Changelog / Release Notes
 
