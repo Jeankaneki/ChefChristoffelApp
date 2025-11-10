@@ -41,6 +41,7 @@ Mobile App
 - **Problem:** When deleting a menu item, the list did not update visually despite the state updating internally.
 - **Solution:**  
   - Added a `refreshCount` dummy state.
+  - Added a third screen for adding items to the menu
   - Pass `extraData={refreshCount}` to the `FlatList`.
   - Increment `refreshCount` after deletion to force re-render.
 - **Result:** List updates immediately after deleting an item, fixing the UI issue.
@@ -56,8 +57,6 @@ Mobile App
 #### Debugging and Logging
 - Added console logs for key functions (`deleteMenuItem`, `confirmDelete`, and `loadMenuItems`) for better debugging.
 - Included logs to verify delete flow and list updates.
-
-### Version 1.4.0
 
 #### Deprecation Warning Fix
 - Addressed the warning about `props.pointerEvents` being deprecated.
