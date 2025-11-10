@@ -4,8 +4,6 @@ This is a React Native app for managing a restaurant menu, including features li
 
 ---
 
-MAST502 Project
-
 Youtube video link:
 
 # Screenshots 
