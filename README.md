@@ -9,13 +9,13 @@ MAST502 Project
 Youtube video link:
 
 # Screenshots 
-Desktop
+Desktop Web
 
 ![](SS1.png)
 
 ![](SS2.png)
 
-Mobile 
+Mobile App
 
 ![](SS3.png)
 
