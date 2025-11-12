@@ -4,7 +4,7 @@ This is a React Native app for managing a restaurant menu, including features li
 
 ---
 
-Youtube video link:
+Youtube video link: https://youtu.be/6OB2r0OBkXE?si=HseNG302ZWWODemh 
 
 # Screenshots 
 Desktop Web
