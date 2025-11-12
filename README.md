@@ -91,4 +91,4 @@ Feel free to open issues or pull requests for improvements!
 ---
 
 ## License
-MIT License (or your preferred license)
+MIT License
